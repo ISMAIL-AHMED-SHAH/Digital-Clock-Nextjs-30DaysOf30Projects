@@ -73,7 +73,7 @@ export default function DigitalClockComponent() {
           </div>
         </div>
       </Card>
-      {/* Footer with creator info */}
+
       <div className="absolute bottom-4 text-gray-200 dark:text-gray-400 text-sm">
         Created by Ismail Ahmed Shah
       </div>
